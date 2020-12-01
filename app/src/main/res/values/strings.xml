@@ -1,0 +1,24 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Mathematics</string>
+    <string name="mathematics1" tools:ignore="DuplicateDefinition">Mathematics!</string>
+    <string name="play">Play!</string>
+    <string name="score">Score</string>
+    <string name="help">Help</string>
+    <string name="information_about_the_application">Information about the application</string>
+    <string name="answering_a_question_yields_one_point_you_can_see_the_points_in_the_game_screen_or_in_the_score_menu">Answering a question yields one point, you can see the points in the game screen or in the Score menu.</string>
+    <string name="current_android_version">Current Android version:</string>
+    <string name="correct_answers">Correct answers:</string>
+    <string name="_0" tools:ignore="DuplicateDefinition">0</string>
+    <string name="correct_answer_ratio_in">Correct answer ratio in %:</string>
+    <string name="number_of_answers">Number of answers:</string>
+    <string name="_1" tools:ignore="DuplicateDefinition">0</string>
+    <string name="_2" tools:ignore="DuplicateDefinition">0</string>
+    <string name="your_score">Your score:</string>
+    <string name="write_the_correct_answers">Write the correct answers!</string>
+    <string name="enter_results_here">Enter results here.</string>
+    <string name="submit">Submit</string>
+    <string name="_3" tools:ignore="DuplicateDefinition">0</string>
+    <string name="mathematics" tools:ignore="DuplicateDefinition">Mathematics!</string>
+    <string name="lets_go">Lets go!</string>
+    <string name="score1">Score:</string>
+</resources>
